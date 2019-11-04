@@ -1,4 +1,5 @@
 sudo: false
+os: linux-ppc64le
 language: java
 install: true
 jdk:
